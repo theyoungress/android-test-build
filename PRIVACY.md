@@ -4,7 +4,8 @@ OpenCal AI has no account and no server. The developers receive nothing from the
 
 ## Stored on your phone
 
-Meals, photos, weight, measurements, water, exercise, recipes, settings, and corrections of recognition results. They stay in the app's
+Meals, photos, weight, measurements, water, exercise, recipes, settings, corrections of recognition results, and, when learning is on, how
+a corrected food looked to the model as a list of numbers (Settings, Photo recognition, Learned looks; can be forgotten there). They stay in the app's
 private folder until you export or delete them. Photos are saved without location and camera data. System cloud backup is switched off.
 
 ## What can leave the phone, and when
@@ -25,6 +26,6 @@ Camera (scanning), microphone (Speak), notifications (reminders and downloads), 
 
 ## Your choices
 
-Export everything (Profile, Your data), delete everything (same place), lock the app, or uninstall it, which erases all data.
+Export everything (Settings, Backup and export), delete everything (same place), lock the app, or uninstall it, which erases all data.
 
 The app is not for children under 13. It shows no calorie targets to people under 18.

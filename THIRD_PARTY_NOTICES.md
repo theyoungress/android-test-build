@@ -14,8 +14,9 @@
 | SigLIP 2 weights (pooling head, text embeddings, downloaded encoder), Google | Apache-2.0 |
 | Gemma 4 E2B (downloaded), Google | Apache-2.0 |
 | PP-OCRv5 mobile models, PaddlePaddle | Apache-2.0 |
-| Schibsted Grotesk font | SIL OFL 1.1, docs/OFL-SchibstedGrotesk.txt |
+| Inter font | SIL OFL 1.1, [OFL-Inter.txt](OFL-Inter.txt) |
 | USDA FoodData Central | public domain (CC0) |
+| Average photo features of 764 foods, computed from 3,572 Wikimedia Commons photos of the WorldCuisines knowledge base; photos not included | each photo under its own license (CC0, public domain, CC BY, CC BY-SA), listed in [PHOTO_CREDITS.csv](PHOTO_CREDITS.csv) |
 | Nutrition5k photos (tests, one screenshot), Google Research | CC BY 4.0 |
 
 Test only: JUnit (EPL-1.0), Robolectric (MIT), MockWebServer (Apache-2.0), Espresso and Compose test (Apache-2.0).
